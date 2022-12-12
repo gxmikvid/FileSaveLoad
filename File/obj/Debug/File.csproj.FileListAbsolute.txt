@@ -1,0 +1,11 @@
+C:\Users\cisco\source\repos\File\File\bin\Debug\File.exe.config
+C:\Users\cisco\source\repos\File\File\bin\Debug\File.exe
+C:\Users\cisco\source\repos\File\File\bin\Debug\File.pdb
+C:\Users\cisco\source\repos\File\File\obj\Debug\File.csproj.AssemblyReference.cache
+C:\Users\cisco\source\repos\File\File\obj\Debug\File.csproj.SuggestedBindingRedirects.cache
+C:\Users\cisco\source\repos\File\File\obj\Debug\File.Properties.Resources.resources
+C:\Users\cisco\source\repos\File\File\obj\Debug\File.csproj.GenerateResource.cache
+C:\Users\cisco\source\repos\File\File\obj\Debug\File.csproj.CoreCompileInputs.cache
+C:\Users\cisco\source\repos\File\File\obj\Debug\File.exe
+C:\Users\cisco\source\repos\File\File\obj\Debug\File.pdb
+C:\Users\cisco\source\repos\File\File\obj\Debug\NevDatumFeladat.Form1.resources
